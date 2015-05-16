@@ -1,0 +1,856 @@
+Rua A
+Rua Abacate
+Rua Abelhas
+Travessa Absolon de Almeida
+Rodovia AC-040
+Rua Acácias
+Travessa Acre
+Rua Acre
+Rua Açucenas
+Rua Adalberto Sena
+Conjunto Adalberto Sena
+Rua Adolfo Barbosa Leite
+Rua Afonso Amoedo
+Travessa Ajuricaba
+Rua Alagoas
+Travessa Alegria
+Rua Alegria
+Rua da Alegria
+Rua Alércio Dias
+Travessa Alércio Dias
+Rua Alexandre Farah
+Rua Alexandre Leitão
+Rua Alexandre Lopes
+Rua Almirante Barbosa
+Rua Almirante Jaceguai
+Rua Aluízio Bezerra
+Travessa Álvaro César
+Rua Álvaro Dantas
+Rua Alvorada
+Travessa Alvoredo
+Travessa Amapá
+Rua Amazônia
+Travessa Amélia Araripe
+Rua Ana Neri
+Travessa Antimary
+Rua Antônio Boto
+Rua Antônio Camelo
+Rua Antônio José Nogueira
+Rua Antônio Monteiro
+Travessa Antônio Rocha Viana
+Rua Antunes de Alencar
+Rua Antúrios
+Travessa Apucarana
+Rua Aquarela
+Alameda Araras
+Rua Ari Rodrigues
+Rua Arlindo Leal
+Alameda Atenas
+Boulevard Augusto Monteiro
+Rua Austrália
+Rua Aviário
+Alameda Azaléas
+Rua Azeitona
+Rua B
+Travessa Baguary
+Rua Baixa Verde
+Praça Bandeira
+Rua Barão do Rio Branco
+Rua Barbosa Lima
+Alameda Barcelona
+Rua Barra do Sol
+Rua Bartolomeu Bueno
+Rua Bartolomeu Dias
+Travessa Beija-Flor
+Alameda Beija-Flor
+Rua Beira-Rio
+Rua Bela Vista
+Conjunto Bela Vista
+Rua Belém
+Alameda Bélgica
+Alameda Bem-te-vi
+Rua Benjamim Constant - até 380/381
+Rua Benjamim Constant - de 382/383 ao fim
+Travessa Benjamim Constant
+Rua Bertioga
+Vila Betel
+Travessa Blumenau
+Rua Boa Viagem
+Rua Boa Vista
+Travessa Boa Vista
+Alameda Boa Vista
+Rua Bodocó
+Rua Bom Destino
+Rua Bom Retiro
+Travessa Bosque
+Rua Botafogo
+Avenida Brasil - até 218/219
+Avenida Brasil - de 220/221 ao fim
+Rua Buriti
+Rua C
+Travessa C
+Travessa Cabanelas
+Travessa Cacoal
+Estrada Calafate
+Rua Camburiú
+Travessa Campo do Rio Branco
+Rua Campo Grande
+Rua Campo Novo
+Alameda Canário
+Rua Canindé
+Rua Capixaba
+Travessa Carlos Santos
+Rua Carmópolis
+Rua Carneiro Leão
+Conjunto Casa Nova
+Conjunto Castelo Branco
+Travessa Castro Alves
+Rua Castro Alves
+Praça Catraeiros
+Rua Catumbi
+Travessa Ceará
+Travessa Cearense
+Travessa Centauro
+Avenida Central
+Rua Chico Mendes
+Rua Chile
+Rua Cinco
+Travessa Ciríaco
+Rua Cirilo
+Rua Coelho Ramos
+Alameda Coimbra
+Rua Colômbia
+Travessa Colombo
+Beco Comara
+Rua Beny Manuela
+Rua Conquista
+Rua Copacabana
+Rua Coronel Alexandrino
+Rua Coronel Brandão
+Travessa Coronel Brandão
+Rua Cravos
+Travessa Cruzeiro do Sul
+Rua Cunha Matos
+Rua Cupuaçú
+Rua D
+Rua da Paz
+Beco da Solidão
+Estrada da Usina
+Rua Dália
+Rua Dálias
+Rua Daniel de Matos
+Alameda das Acácias
+Rua Dez
+Rua Dez de Julho
+Travessa Dez de Junho
+Rua Dezenove
+Rua Dezenove de Novembro
+Travessa Dezesseis
+Rua Dezesseis
+Rua Dezesseis de Outubro
+Rua Dezessete
+Rua Dezoito
+Travessa Dezoito
+Rua Diamantina
+Rua Dias Martins
+Estrada Dias Martins
+Alameda Dinamarca
+Conjunto Distrito Industrial Zona A
+Conjunto Distrito Industrial Zona B
+Conjunto Distrito Industrial Zona C
+Rua Dois
+Avenida Dois
+Rua Dois de Abril
+Rua Dom Bosco
+Rua Dom Giocondo
+Rua Dom Pedro I
+Conjunto Dom Pedro II
+Rua Dourados
+Rua Doze
+Rua Doze de Outubro
+Rua Duque de Caxias
+Rua E
+Rua Éden
+Rua Edson Mendes
+Rua Eduardo Assmar
+Rua Educandos
+Travessa Egito
+Rua Eldorado
+Travessa Elizabeth
+Rua Epaminondas Jácome
+Avenida Epaminondas Jácome
+Rua Epaminondas Martins
+Rua Epitácio Pessoa
+Rua Equador
+Rua Eros
+Alameda Escócia
+Alameda Espanha
+Travessa Esperança
+Rua Esperança
+Conjunto Esperança
+Conjunto Esperança II
+Rua Espírito Santo
+Rua Estácio de Sá
+Rua Estado do Acre
+Rua F
+Rua Farroupilha
+Travessa Fausto Robalo
+Rua Fausto Robalo
+Rua Fé de Deus
+Travessa Feijó
+Rua Felicidade
+Travessa Felisbela do Nascimento
+Rua Fernando Lira
+Alameda Flamboyant
+Travessa Flamengo
+Travessa Flaviano
+Rua Flávio Batista
+Rua Florência Mesquita
+Rua Floresta
+Rua Floriano Peixoto
+Rua Fluminense
+Rua Fonte Nova
+Rua Formosa
+Rua Fortaleza
+Alameda Franca
+Travessa Conde Francisco
+Rua Francisco Ferreira da Silva
+Travessa Francisco Furtado
+Rua Francisco Xavier
+Rua Franco Ribeiro
+Rua Frei Caneca
+Rua Futuro
+Rua G
+Alameda Garças
+Alameda General Vieira de Melo
+Rua Gênova
+Avenida Getúlio Vargas - até 654/655
+Avenida Getúlio Vargas - de 5002/5003 ao fim
+Avenida Getúlio Vargas - de 656/657 a 5000/5001
+Rua Goiás
+Rua Gowdevasser Santos
+Rua Granada
+Travessa Granja
+Alameda Graúna
+Rua Graviola
+Rua Guajará
+Rua Gualter Craveiro
+Rua Guanabara
+Travessa Guanabara
+Travessa Guaporé
+Travessa Guarani
+Rua Guarani
+Rua Guilhermino Bastos
+Rua Guiomard Santos
+Conjunto Guiomard Santos I
+Conjunto Guiomard Santos II
+Rua H
+Rua Halley
+Travessa Havaí
+Rua Henrique Dias
+Rua Hermínio de Melo
+Travessa Hernandes Fernandes
+Rua Hidaldo de Lima
+Travessa Onófrio Alves
+Rua Onófrio Alves das Neves
+Travessa Horizonte
+Rua Hortências
+Rua Hugo Carneiro
+Rua I
+Travessa Iaco
+Rua Ibiscos
+Rua Icó
+Rua Ilson Ribeiro
+Rua Independência
+Estrada Invernada
+Rua Iolanda Lima
+Alameda Ipê
+Rua Iracema
+Travessa Irineu Serra
+Alameda Irlanda
+Rua Isaura Parente
+Travessa Ita
+Rua Itaipú
+Rua Itália
+Rua Itamaracá
+Travessa Itamarati
+Rua Itapuã
+Rua J
+Alameda Jaburu
+Alameda Jacamim
+Alameda Jaçanã
+Alameda Jaci
+Rua Jaguari
+Rua Jaguaribe
+Rua Jambo
+Rua Jandaia
+Alameda Japim
+Alameda Jasmins
+Travessa Jerusalém
+Rua João Chalub
+Rua João de Oliveira Rola
+Rua João Donato
+Rua João Gomes
+Rua João Onofre
+Rua João Viana
+Rua João XXIII
+Travessa Joaquim Chaves
+Travessa José Cunha
+Rua José de Melo
+Rua José Galdino
+Rua José Magalhães
+Rua José Maria Rios
+Estrada Juarez Távora
+Travessa Júlio César
+Rua Júpiter
+Rua K
+Rua Karen
+Rua Kent
+Rua L
+Rua La Torre
+Rua Ladislau Ferreira
+Rua Laranja
+Rua Lavousier
+Conjunto LBA
+Rua Leblon
+Rua Lei Áurea
+Rua Leme
+Rua Lima
+Rua Lírios
+Alameda Lisboa
+Rua Lourival Ribeiro
+Rua Lua Nova
+Rua Luiz Galvez
+Rua Luiz Gonzaga
+Rua Luiz Z. da Silva
+Rua M
+Rua Macapá
+Rua Machado de Assis
+Alameda Madri
+Alameda Magnólia
+Rua Major Salinas
+Rua Mamão
+Alameda Manacás
+Rua Manaus
+Rua Manga
+Travessa Mangueiras
+Rua Manoel Cassiano
+Rua Manoel Castor de Araújo
+Rua Manoel Cezário
+Conjunto Manoel Julião
+Rua Maracanã
+Rua Maranhão
+Rua Marechal Deodoro
+Rua Marechal Rondon
+Rua Margaridas
+Travessa Maria Amélia
+Rua Maria de Lourdes
+Travessa Marinho Monte
+Conjunto Marinho Monte
+Rua Marivan de Oliveira
+Rua Martiniano Prado
+Conjunto Mascarenhas de Morais
+Beco Matinha
+Travessa Mauá
+Rua Mauá
+Conjunto Mauro Bittar
+Rua Melância
+Rua Melão
+Rua Men de Sá
+Vila Mendes Júnior
+Rua Milton Matos
+Rua Milton Santos
+Travessa Mirim
+Rua Morango
+Travessa Morro
+Rua Mozart
+Travessa Mutema
+Alameda Mutum
+Rua N
+Rua Nabor Júnior
+Alameda Nápoli
+Rua Netuno
+Beco Neutel Maia
+Travessa Niterói
+Alameda Noruega
+Rua Nossa Senhora da Conceição
+Rua Nossa Senhora das Graças
+Rua Nossa Senhora de Fátima
+Rua Nova Andira
+Conjunto Nova Esperança
+Rua Nove
+Conjunto Novo Horizonte
+Rua Novo Horizonte
+Rua O
+Rua Oito
+Rua Olaria
+Rua Oliveiras
+Rua Onze
+Travessa Onze de Junho
+Rua Operários
+Rua Oriente
+Rua Orquídeas
+Conjunto Oscar Passos
+Rua Otávio Rola
+Rua Ouro Verde
+Rua Ozaninha
+Rua P
+Travessa Padre André
+Rua Padre Cícero
+Travessa Padre Cícero
+Travessa Padre Hugo
+Travessa Padre José
+Rua Padre Manoel da Nóbrega
+Travessa Padre Thiago
+Alameda Paineiras
+Rua Palmeira
+Rua Palmeiral
+Rua Palmeiras
+Alameda Palmeiras
+Rua Pantanal
+Alameda Papagaio
+Rua Pará
+Rua Paraíba
+Rua Paraná
+Rua Parati
+Alameda Paris
+Conjunto Parque das Nações
+Estrada Particular
+Rua Passarela
+Rua Passeio
+Rua Paz
+Rua Pedro Álvares Cabral
+Rua Pedro Vaz
+Rua Pera
+Rua Pereira Passos
+Rua Pernambuco - até 898/899
+Rua Pernambuco - de 900/901 ao fim
+Rua Pérolas
+Rua Perpétua
+Rua Peru
+Rua Pêssego
+Conjunto Petrópolis
+Rua Piauí
+Alameda Picapau
+Rua Pio Nazário
+Rua Pio XII
+Travessa Pista
+Travessa Plácido de Castro
+Rua Plácido de Castro
+Rua Plínio Brandão
+Rua Poços de Caldas
+Travessa Ponta Porã
+Travessa Portela
+Estrada Porto Acre
+Travessa Praxedes
+Travessa Primavera
+Rua Primavera
+Rua Primeiro de Janeiro
+Rua Primeiro de Maio
+Rua Princesa Isabel
+Rua Principal
+Conjunto Procon
+Rua Q
+Rua Quarenta
+Rua Quatorze
+Rua Quatro
+Travessa Quatro de Outubro
+Rua Quinari
+Rua Quintino Bocaiúva
+Travessa Quinze
+Rua Quinze
+Rua Quinze de Novembro
+Rua Quito
+Rua R
+Rua Rádio Farol
+Rua Raimundo F. Pinto
+Conjunto Raimundo Melo
+Travessa Ramos Ferreira
+Rua Raul Barcelar
+Avenida Recanto Verde
+Rua Riachuelo
+Travessa Rio Branco
+Rua Rio de Janeiro
+Rua Rio Grande do Sul
+Rua Rondônia
+Rua Rosas
+Rua Rubens Carneiro
+Rua Rui Barbosa - até 193/194
+Rua Rui Barbosa - de 195/196 ao fim
+Conjunto Rui Lino
+Rua Rui Lino
+Travessa Rui Lino
+Rua S
+Alameda Sabiá
+Rua Saldanha Marinho
+Rua Salgueiro
+Rua Santa Catarina
+Travessa Santa Cruz
+Rua Santa Fé
+Rua Santa Helena
+Estrada Santa Inês
+Rua Santa Luzia
+Travessa Santa Luzia
+Travessa Santa Madalena
+Rua Santa Maria
+Rua Santa Rita
+Rua Santa Terezinha
+Rua Santo Afonso
+Rua Santo Antônio
+Travessa São Cristóvão
+Beco São Domingos
+Estrada São Francisco
+Rua São Francisco
+Conjunto São Francisco
+Travessa São Gabriel
+Rua São Januário
+Rua São João
+Rua São Jorge
+Rua São José
+Rua São Lucas
+Rua São Luiz
+Rua São Nicolau
+Conjunto São Paulo
+Travessa São Pedro
+Rua São Raimundo
+Rua São Salvador
+Travessa São Salvador
+Rua São Sebastião
+Rua São Vicente
+Rua Saudade
+Rua Sebastião Dantas
+Rua Seis
+Rua Seis de Agosto
+Rua Seis de Maio
+Rua Sena Madureira
+Rua Senador Kairala
+Travessa Serra
+Rua Sete
+Rua Sete de Dezembro
+Rua Sete de Setembro
+Rua Severiano
+Alameda Sevilha
+Rua Silvestre Coelho
+Rua Siqueira Campos
+Rua Sobral
+Estrada Sobral
+Conjunto Solar
+Beco Solidão
+Alameda Suécia
+Alameda Suíça
+Rua T
+Rua Tamandaré
+Travessa Tancredo Neves
+Conjunto Tangará
+Rua Tapajós
+Rua Tarauacá
+Rua Tenente Adherbal Brasil
+Rua Teodolino Falcão Macedo
+Rua Teotônio Vilella
+Rua Thamaturgo de Azevedo
+Travessa Thamaturgo de Azevedo
+Rua Thomé de Souza
+Conjunto Tiarajú
+Rua Tiradentes
+Travessa Tiradentes
+Rua Três
+Avenida Três
+Rua Três de Setembro
+Rua Treze
+Rua Trinta e Cinco
+Rua Trinta e Dois
+Rua Trinta e Quatro
+Rua Trinta e Seis
+Rua Trinta e Três
+Rua Trinta e Um
+Rua Trinta e Um de Março
+Rua Triunfo
+Alameda Tucano
+Conjunto Tucumã
+Rua Tucuruí
+Rua Túlias
+Rua Tutóia do Maranhão
+Rua Ubatuba
+Rua Uirapuru
+Alameda Uirapuru
+Rua Um
+Conjunto Universitário
+Rua Urano
+Alameda Uricuri
+Rua Uva
+Rua V
+Rua Valdomiro Lopes
+Rua Valério Magalhães
+Travessa Vasconcelos
+Rua Veneza
+Alameda Veneza
+Rua Venezuela
+Alameda Venezuela
+Rua Vênus
+Travessa Vera Cruz
+Alameda Verona
+Rua Veterano Henrique Julião
+Rua Veterano Hernesto Sales
+Rua Veterano Manoel Avelino
+Rua Veterano Manoel Barros
+Rua Veterano Telmo Julião
+Travessa Vilhena
+Rua Vinte
+Rua Vinte de Março
+Rua Vinte e Cinco
+Rua Vinte e Dois
+Rua Vinte e Nove
+Rua Vinte e Oito
+Rua Vinte e Quatro
+Rua Vinte e Quatro de Janeiro
+Rua Vinte e Seis
+Rua Vinte e Sete
+Rua Vinte e Três
+Rua Vinte e Um
+Rua Violeta
+Rua Violetas
+Rua Virgílio Lima
+Travessa Virgílio Lima
+Rua Visconde de Mauá
+Rua Vital Brasil
+Rua Vitória
+Rua Xapuri
+Conjunto Xavier Maia
+Rua Alan Kardec
+Alameda Buriti
+Rua Custódio Freire
+Rua Francisco Mangabeira
+Rua Ipanema
+Rua Coronel João Câncio
+Rua Liberdade
+Rua Manoel Rodrigues de Sousa
+Alameda Mônaco
+Rua Omar Sabino
+Rua Panair
+Rua Plutão
+Travessa São Edimar
+Rua Serva Ribeiro
+Rua Terminal
+Rua Vitória Régia
+Rua Amizade
+Rua Gabino Bezoro
+Rua Jasmin
+Rua Mercúrio
+Rua Padre José
+Conjunto Tancredo Neves
+Rua Tijuca
+Alameda Açaí
+Rua Antônio da Rocha Viana
+Rua Belo Horizonte
+Rua Caxias
+Rua Conde D´Eu
+Rua Doze de Junho
+Conjunto Eletra
+Alameda Finlândia
+Rua Grêmio Atlético Sampaio
+Conjunto Jardim América
+Rua Júlio Camilo de Oliveira
+Rua Maçã
+Rua Minas Gerais - até 517/518
+Rua Minas Gerais - de 519/520 ao fim
+Travessa Nilo Bezerra
+Rua Palmas
+Conjunto Paulo César de Oliveira
+Alameda Portugal
+Travessa Rádio Farol
+Rua Santos Dumont
+Rua Terra
+Rua Trinta
+Avenida Um
+Alameda Viena
+Rua Adalcides Gallo
+Travessa Aziz
+Alameda Curió
+Rua Fontenele Castro
+Rua Ipase
+Rua Magé
+Rua Primeiro de Agosto
+Rua Revolta
+Conjunto Tropical I, II, III
+Travessa Alencar
+Rua Amazonas
+Rua Baguary
+Rodovia BR-364
+Rua Camélias
+Estrada Custódio Ferreira
+Rua Dama da Noite
+Rua Ex-Território
+Rua Geraldo Mesquita
+Travessa Ipiranga
+Rua Joaquim M. Macedo
+Rua Manoel Barata
+Rua Órion
+Rua Paraíso
+Travessa Roraima
+Travessa Santa Inês
+Rua Sergipe
+Travessa Sol
+Travessa Vasco da Gama
+Avenida Nações Unidas - até 580/581
+Avenida Nações Unidas - de 1237/1238 a 1900/1901
+Avenida Nações Unidas - de 1902/1903 ao fim
+Avenida Nações Unidas - de 582/583 a 1235/1236
+Rua Nova
+Avenida Ceará - até 637/638
+Avenida Ceará - de 640/641 a 889/890
+Avenida Ceará - de 870/871 a 1357/1358
+Avenida Ceará - de 2/3 a 2455/2456
+Avenida Ceará - de 2514/2515 a 3805/3806
+Avenida Ceará - de 3876/3877 ao fim
+Estrada do Calafate
+Rua dos Engenheiros
+Travessa Luiz Pereira
+Rua Arueira
+Rua São Luís (Cj Waldemar Maciel)
+Rua Saturno
+Rua Marte
+Travessa Bom Jesus
+Rua Mariano (Vl Amizade)
+Rua Itamar Pascoal (Cj Vanderlei Dantas)
+Rua 20 de Novembro (Cj Boa União)
+Rua Dois de Abril (Vila Nova)
+Rua Abdias Francisco dos Santos
+Rua Abel Monteiro de Maia
+Rua Abraão de Oliveira
+Rua Adalgisa Fernandes Cavalcante
+Rua Adeildo Nepomuceno Marques
+Rua Ademar Medeiros
+Rua Aderval Inácio da Silva
+Rua Adilson Torres de Melo
+Rua Adjalma Silva
+Rua Adrião Henrique Silva
+Rua Advogado Mário Correia Macêdo
+Rua Afonso Pena
+Rua Afra Albuquerque Lima
+Rua Afra Correia Barbosa
+Praça Afrânio Salgado Lages
+Rua Agnelo Leite
+Rua Agostinho Severino dos Santos
+Rua Agripino Damasceno Ribeiro
+Rodovia AL-220
+Rua Aloísio Torres de Oliveira
+Rua Alvina Nunes da Silva
+Rua Amália Gonzaga Lima
+Rua Amâncio Matias da Silva
+Rua Amélia Nunes Correia
+Rua Ana Beatriz
+Rua Ana Lúcia Andrade Neves
+Rua Ana Maria Mendes Lira
+Rua Ana Nery
+Rua Ana Rosa de Oliveira
+Rua Anadia
+Avenida André Avelino da Silva
+Rua André Félix da Silva
+Rua André Leão
+Rua Ângelo Tavares
+Rua Aníbal Lima
+Rua Anita Aristides da Silva
+Largo Amphilófio C. Souza Guerra
+Rua Antônia Angelina da Silva
+Rua Antônia Barbosa
+Rua Antônia Jovelina dos Santos
+Rua Antônia Leite
+Rua Antônio Leandro
+Rua Antônio Apolinário da Silva
+Avenida Antônio Barbosa
+Praça Antônio Barbosa
+Rua Antônio Barbosa da Silva
+Rua Antônio Bernardino de Sena
+Rua Antônio Cavalcante Gama
+Rua Antônio Clarindo
+Praça Antônio de Oliveira Silva
+Rua Antônio Estevão da Silva
+Rua Antônio Estevão Sobrinho
+Rua Antônio Evangelista da Silva
+Rua Antônio Farias Leal
+Rua Antônio Feliciano
+Rua Antônio Fernandes
+Rua Antônio Ferreira Barbosa
+Rua Antônio José dos Santos
+Praça Antônio Laurindo
+Rua Antônia Leão da Silva
+Rua Antônio Leão de Melo
+Rua Antônio Leite
+Avenida Antônio Lemos Palmeira
+Rua Antônio Lima Sobrinho
+Rua Antônio Magalhães Barbosa
+Rua Antônio Marroquim
+Rua Antônio Menezes Neto
+Rua Antônio Messias
+Rua Antônio Mizael
+Rua Antônio Oliveira Melo
+Rua Antônio Pereira de Albuquerque
+Rua Antônio Pereira de Lima
+Rua Antônio Pereira dos Santos
+Rua Antônio Pituba
+Praça Antônio Ribeiro
+Rua Antônio Rochery de Lima
+Rua Antônio Romualdo Oliveira
+Rua Antônio Salú
+Rua Antônio Torres
+Praça Antônio Ventura de Oliveira
+Praça Antônio Ventura Filho
+Rua Antônio Vieira Neto
+Rua Antônio Vital da Silva
+Rua Aprígio Jacinto
+Rua Aristeu Ferreira Queiroz
+Rua Aristides Félix da Silva
+Rua Arízio Lopes Marinho
+Rua Arizona
+Rua Aroldo Júlio da Silva
+Rua Atalaia
+Rua Augusto Pereira
+Rua Aurélio Lima Pimentel
+Rua Barão de Alagoas
+Rua Batalha
+Rua Belo Monte
+Rua Benedito Terto da Silva
+Rua Benvinda Leão
+Praça da Bíblia
+Rua Boa Esperança
+Rua Boa Sorte
+Praça Bom Conselho
+Rua Bom Conselho
+Avenida Branquinha
+Rua Brasil
+Rua Brasília
+Rua Braz Vieira de Santana
+Rua Brivaldo Joaquim
+Rua Cajueiro
+Rua Carlindo Olindino Pereira
+Rua Carlos Alberto Albuquerque Melo
+Rua Carlos Alberto Vital
+Rua Carlos César Araújo
+Praça Carlos Gomes
+Rua Cecília Pereira Amorim
+Rua Professora Chiquinha Macêdo
+Rua Cícero Antônio da Silva
+Rua Cícero Barbosa e Silva
+Rua Cícero Romão da Silva
+Praça Cícero Sales Brasil
+Rua Cícero Torres
+Rua Cirilo José
+Rua Cizino da Costa Gama
+Rua Claudênia Maria de Melo Lima
+Rua Claudete Maria de Melo
+Rua Cleto Marques Silva
+Rua Clóvis de Barros Correia
+Rua Coracy Mata Fonseca
+Rua Coité do Noia
+Rua Coronel Ataíde de Oliveira
+Praça Coronel José de Farias
+Rua Coruripe
+Rua Costa Cavalcante
+Rua Costa Rêgo
+Rua Costa Rica
+Rua Crisantino da Cunha Lima
+Rua Cristo Redentor
+Rua Curitiba
+Rua Custódio José de Melo
+Rua Dácia Bezerra Cavalcante
+Rua Dedé Vigario

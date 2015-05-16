@@ -1,0 +1,76 @@
+Big Mac|3.99
+2 Cheeseburgers|2.58
+Quarter Pounder with Cheese|3.79
+Double Quarter Pounder with Cheese|4.79
+Deluxe Quarter Pounder|4.19
+Lettuce & Tomato Sirloin Third Pound Burger|5.0
+Bacon & Cheese Sirloin Third Pound Burger|5.3
+Steakhouse Sirloin Third Pound Burger|5.1
+Premium McWrap Chicken & Bacon|4.19
+Premium McWrap Sweet Chili Chicken|4.19
+Filet-O-Fish|3.79
+Double Filet-O-Fish|4.79
+Artisan Grilled Chicken|4.19
+Crispy Chicken Deluxe|4.19
+Southern Style Chicken|3.89
+Bacon Clubhouse Burger|4.49
+Premium Chicken Bacon Clubhouse|4.49
+McChicken|3.79
+Chicken McNuggets|4.49
+Chicken Select Tenders|2.99
+Southwest Salad|4.79
+Bacon Ranch Salad|4.59
+Mac Snack Wrap|1.69
+Chicken Snack Wrap|1.69
+French Fries|1.29
+Grilled Onion Cheddar Burger|1.0
+McDouble|1.39
+Bacon Cheddar McChicken|2.0
+Buffalo Ranch McChicken|1.0
+Bacon Buffalo Ranch McChicken|2.0
+BBQ Ranch Burger|1.0
+Cheeseburger|1.0
+Double Cheeseburger|1.59
+Triple Cheeseburger|2.29
+Daily Double|1.99
+Jalapeño Double|2.0
+Bacon McDouble|2.0
+Parfait|1.0
+Side Salad|1.59
+3 Cookies|1.0
+Apple Slices|1.0
+Sausage McMuffin|1.19
+Sausage Biscuit|1.19
+Hash Browns|1.0
+Coffee|0.9
+Egg & Cheese Biscuit|1.29
+Cinnamon Melt|1.59
+Smoothie Small|2.39
+Frappe Small|2.39
+Frozen Strawberry Lemonade|2.39
+Espresso & Chocolate|2.39
+Premium Roast Coffee|0.9
+Iced Coffee|1.59
+Sweet Tea|1.0
+Soft Drink|1.0
+Orange Juice|1.59
+Milk|1.0
+Dasani Water|1.0
+Shake|2.19
+Apple Pie|0.89
+Cone|1.0
+McFlurry|1.79
+Soft Baked Chocolate Chip|0.39
+Strawberry & Creme|0.89
+Chocolate Chip Cookie Tote|3.99
+Egg White Delight McMuffin|2.79
+Egg McMuffin|2.79
+Sausage McMuffin with Egg|2.99
+Cheese Biscuit|3.19
+Sausage Biscuit with Egg|2.79
+Sausage Gravy & Biscuit|2.69
+Sausage McGriddles|2.79
+Sausage Burrito|1.19
+Big Breakfast with Hot Cakes|5.29
+Big Breakfast|3.49
+Hot Cakes with Sausage|2.99
