@@ -42,20 +42,17 @@ class Venda:
         self.franquia = franquia
         self.data = data
         self.itens_venda = []
-         
-    def calcularValorTotal(self):
-        for item in self.itens_venda:
-            self.valor_total += item.valor
-            
+                     
     def __repr__(self):    
         return "Id: "+str(self.id)+", Data: "+str(self.data)+", Valor: "+str(self.valor_total)+", Cod franquia: "+self.franquia.cod+", Vendedor: "+self.vendedor.cpf
         
 class ItemVenda:
-     def __init__(self,venda,produto,qtd):
+     def __init__(self,venda,produto,qtd, valor_unitario):
          self.venda = venda
          self.produto = produto
          self.qtd = qtd
-         self.valor = self.produto.preco * self.qtd
+         self.valor_produto = self.produto.preco
+         self.valor_unitario = valor_unitario
      def __repr__(self):    
          return "Venda: "+self.venda.cod+", Produto: "+str(self.produto.preco)+", Valor: "+str(self.valor)
         
@@ -181,14 +178,16 @@ class GeradorDados:
             for x in range (0,quantidade_itens):
                 index_2 = getIndex(probabilidades[index][2],100)
                 quantidade_produto = probabilidades[index][2][index_2][1]
+                perc_desconto = randint(0, 10)
                 produto = self.produtos[randint(0,len(self.produtos)-1)]
                 while produto in produtos_escolhidos:
                     produto = self.produtos[randint(0,len(self.produtos)-1)]
                 produtos_escolhidos.append(produto)
-                item_venda = ItemVenda(venda,produto,quantidade_produto)
+                valor_venda = produto.preco - (produto.preco * perc_desconto / 100)
+                item_venda = ItemVenda(venda,produto,quantidade_produto, valor_venda)
                 self.itens_vendas.append(item_venda)
                 venda.itens_venda.append(item_venda)
-            venda.calcularValorTotal()
+            # venda.calcularValorTotal()
             self.vendas.append(venda)
             
     def getMediaVendas(self):
@@ -210,7 +209,7 @@ class GeradorDados:
         f4 = ');\n'
         formatodata = '"%Y-%m-%d %H:%i:%S"'
         arquivo = open('sql/popular_database.sql', 'w',encoding="utf8")
-        arquivo.write("insert into Funcionario(cpf,nome) values \n")
+        arquivo.write("insert into oltp.Funcionario(cpf,nome) values \n")
         for x in range(0,len(self.funcionarios)-1):
             funcionario = self.funcionarios[x]
             arquivo.write(c+funcionario.cpf+s+funcionario.nome+f)
@@ -218,7 +217,7 @@ class GeradorDados:
         funcionario = self.funcionarios[x]
         arquivo.write(c+funcionario.cpf+s+funcionario.nome+f2)
         arquivo.write("\n")
-        arquivo.write("insert into Produto(cod,nome_produto,valor_unidade) values \n")
+        arquivo.write("insert into oltp.Produto(cod,nome_produto,valor_unidade) values \n")
         for x in range(0,len(self.produtos)-1):
             produto = self.produtos[x]
             arquivo.write(c+produto.cod+s+produto.nome+s2+str(produto.preco)+f3)
@@ -226,7 +225,7 @@ class GeradorDados:
         produto = self.produtos[x]
         arquivo.write(c+produto.cod+s+produto.nome+s2+str(produto.preco)+f4)
         arquivo.write("\n")
-        arquivo.write("insert into Franquia(cod,estado,cidade,bairro,rua,numero) values \n")
+        arquivo.write("insert into oltp.Franquia(cod,estado,cidade,bairro,rua,numero) values \n")
         for x in range(0,len(self.franquias)-1):
             franquia = self.franquias[x]
             arquivo.write(c+franquia.cod+s+franquia.estado+s+franquia.cidade+s+
@@ -236,29 +235,29 @@ class GeradorDados:
         arquivo.write(c+franquia.cod+s+franquia.estado+s+franquia.cidade+s+
                           franquia.bairro+s+franquia.rua+s+franquia.numero+f2)
         arquivo.write("\n")
-        arquivo.write("insert into Venda(id,valor_total,cod_franquia,data_venda,vendedor_cpf) values \n")
+        arquivo.write("insert into oltp.Venda(id,cod_franquia,data_venda,vendedor_cpf) values \n")
         for x in range(0,len(self.vendas)-1):
             venda = self.vendas[x]
             cod_franquia = venda.franquia.cod
             data = venda.data
             string_data = '",''str_to_date("'+str(data)+'",'+formatodata+')'+','+'"'
-            valor_venda = "{0:.2f}".format(venda.valor_total)
-            arquivo.write(c2+str(venda.id)+s4+valor_venda+s3+cod_franquia+string_data+venda.vendedor.cpf+f)
+            arquivo.write(c2+str(venda.id)+s3+cod_franquia+string_data+venda.vendedor.cpf+f)
         x+=1
         venda = self.vendas[x]
         cod_franquia = venda.franquia.cod
         data = venda.data
         string_data = '",''str_to_date("'+str(data)+'",'+formatodata+')'+','+'"'
-        valor_venda = "{0:.2f}".format(venda.valor_total)
-        arquivo.write(c2+str(venda.id)+s4+valor_venda+s3+cod_franquia+string_data+venda.vendedor.cpf+f2)
+        arquivo.write(c2+str(venda.id)+s3+cod_franquia+string_data+venda.vendedor.cpf+f2)
         arquivo.write("\n")
-        arquivo.write("insert into Item_venda(cod_produto,id_venda,quantidade) values \n")
+        arquivo.write("insert into oltp.Item_venda(cod_produto,id_venda,quantidade, valor_tabela, valor_unitario) values \n")
         for x in range(0,len(self.itens_vendas)-1):
             item_venda = self.itens_vendas[x]
-            arquivo.write(c+item_venda.produto.cod+s2+str(item_venda.venda.id)+s4+str(item_venda.qtd)+f3)
+            valor_produto = "{0:.2f}".format(item_venda.valor_produto)
+            valor_unitario = "{0:.2f}".format(item_venda.valor_unitario)
+            arquivo.write(c+item_venda.produto.cod+s2+str(item_venda.venda.id)+s4+str(item_venda.qtd)+s4+valor_produto+s4+valor_unitario+f3)
         x+=1
         item_venda  = self.itens_vendas[x]
-        arquivo.write(c+item_venda.produto.cod+s2+str(item_venda.venda.id)+s4+str(item_venda.qtd)+f4)
+        arquivo.write(c+item_venda.produto.cod+s2+str(item_venda.venda.id)+s4+str(item_venda.qtd)+s4+valor_produto+s4+valor_unitario+f4)
         arquivo.close()
 
         
