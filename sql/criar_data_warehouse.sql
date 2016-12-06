@@ -19,6 +19,7 @@ CREATE TABLE IF NOT EXISTS dw.dm_local (
 
 create table dw.dm_franquia(
 	id int not null,
+    nome varchar(100),
 	primary key(id)
 );
 
@@ -55,10 +56,10 @@ create table dw.ft_vendas(
 	id_tempo int,
 	qtd_produto int,
 	valor_total double,
-	foreign key(id_local) references dm_local(id),
-	foreign key(id_franquia) references dm_franquia(id),
-	foreign key(id_produto) references dm_produto(id),
-	foreign key(id_vendedor) references dm_vendedor(id),
-	foreign key(id_tempo) references dm_tempo(id),
+	foreign key(id_local) references dw.dm_local(id),
+	foreign key(id_franquia) references dw.dm_franquia(id),
+	foreign key(id_produto) references dw.dm_produto(id),
+	foreign key(id_vendedor) references dw.dm_vendedor(id),
+	foreign key(id_tempo) references dw.dm_tempo(id),
 	primary key(id)
     );
