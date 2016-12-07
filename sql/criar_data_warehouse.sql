@@ -18,26 +18,31 @@ CREATE TABLE IF NOT EXISTS dw.dm_local (
 );
 
 create table dw.dm_franquia(
-	id int not null,
+	id int not null auto_increment,
+    cod_franquia int,
     nome varchar(100),
 	primary key(id)
 );
 
+
 create table dw.dm_produto(
-	id int not null,
+	id int not null auto_increment,
+    cod_produto int,
 	nome_produto varchar(100),
 	primary key(id)
 );
 
 create table dw.dm_vendedor(
-	id int not null,
+	id int not null auto_increment,
+    cod_vendedor int,
     cpf varchar(13) not null,
 	nome varchar(250),
 	primary key(id)
 );
 
 create table dw.dm_tempo(
-    id int not null,
+    id int not null auto_increment,
+    cod_tempo int,
     tempo date,
 	ano int,
 	semestre int,
